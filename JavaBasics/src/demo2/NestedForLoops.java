@@ -12,6 +12,8 @@ public class NestedForLoops {
 				System.out.println("*");
 			}
 			
+			//Adding a new line
+			
 		}
 	}
 
