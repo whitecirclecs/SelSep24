@@ -19,6 +19,7 @@ public class Car {
 		
 		System.out.println("Today is Tuesday");
 		System.out.println("Today i saw a " + colorOfCar + " Mercedes on the road");
+		System.out.println("It is September");
 	}
 	
 	
